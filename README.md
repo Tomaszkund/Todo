@@ -1,3 +1,26 @@
+# TODO APP built in React with: 
+## - Hooks - UseState, useEffect, 
+## - Filter to change stats yours task - completed, uncompleted, all,
+## - LocalStorage,
+## - Components
+
+##
+![](s1.PNG)
+
+# Enter your task in input
+
+##
+![](s2.PNG)
+
+# Click on the buttons - Complete or delete
+
+##
+![](s3.PNG)
+
+# Filtring yours task by categories - completed, uncompleted, all
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
